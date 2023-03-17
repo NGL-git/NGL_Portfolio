@@ -1,0 +1,119 @@
+head:
+  title: "Natalie Luffman's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hi, I’m Natalie Luffman."
+  subtitle: "PhD Student in Human Genetics"
+  description: "Natalie is a 1st year PhD student in Human Genetics at VCU's School of Medicine <a target='_blank' href='https://genetics.vcu.edu/about/students/'>Human Genetics at VCU's School of Medicine</a>, working in the lab of Dr. Hisashi Harada at the Massey Cancer Center."
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Natalie"
+    URL: "mailto:luffmanng@vcu.edu"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/natalie-luffman-bb5236179/"
+
+    - icon: "github"
+      URL: "https://github.com/NGL-git"
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>Curious at heart, I love delving into the details of nature.</strong> My passion lies in genetics, 
+    and I'm currently working towards a PhD to eventually join scientific industry. 
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is investigating the role of cellular senescence in cancer relapse. 
+    Though I am just beginning my PhD journey, I am looking forward to collecting data, learning new techniques,
+    and contributing to the research community.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/natalie-luffman-bb5236179/"
+  image:
+    x: "profile_pic.jpg"
+    _2x: "profile_pic.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/natalie-luffman-bb5236179/"
+
+  items:
+    - title: "Honors Research Assistant in Developmental Genetics"
+      company: "College of William & Mary"
+      duration: "September 2019 - May 2022"
+
+    - title: "PhD Student in Human Genetics"
+      company: "VCU School of Medicine"
+      duration: "August 2022 - Current"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "College of William & Mary"
+      year: "2018-2022"
+      degree: "Bachelor of Science in Biology (B.S)"
+
+    - university: "Virginia Commonwealth University School of Medicine"
+      year: "2022-Present"
+      degree: "PhD in Human Genetics"
+
+
+
+# Data Science Work
+DS_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+
+  works:
+    - title: "Pine Tree Distance Prediction Modeling"
+      description: 
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "http://rpubs.com/NGLrpub/NGL_Project_1"
+      image:
+        x: "flexdashboard_pic.jpg"
+        _2x: "flexdashboard_pic.jpg"
+      is_even: true
+
+# contact
+contact:
+  enable: true
+  title: "Contact Natalie"
+    
+  image:
+    x: "profile_pic.jpg"
+    _2x: "profile_pic.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:luffmanng@vcu.edu'
+    
+
+  email:
+    title: "Email"
+    email: '<a href="mailto:luffmanng@vcu.edu">your-email@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Richmond, VA"
+  
