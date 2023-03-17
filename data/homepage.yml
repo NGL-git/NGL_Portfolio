@@ -47,11 +47,11 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  description: "HGEN Data Science Project 1"
   button:
     icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/natalie-luffman-bb5236179/"
+    btnText: "Project"
+    URL: "http://rpubs.com/NGLrpub/NGL_Project_1"
 
   items:
     - title: "Honors Research Assistant in Developmental Genetics"
@@ -75,16 +75,11 @@ education:
       year: "2022-Present"
       degree: "PhD in Human Genetics"
 
-
-
-# Data Science Work
-DS_and_work:
-  title: "Portfolio"
+# portfolio
+work:
   enable: true
-  
-  enable_clients: false
-
-  works:
+  title: "Portfolio"
+  items:
     - title: "Pine Tree Distance Prediction Modeling"
       description: 
         icon: "icon-arrow-right"
